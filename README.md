@@ -1,1 +1,1 @@
-# cake-redux - from development2
+# cake-redux
