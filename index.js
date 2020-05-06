@@ -1,3 +1,5 @@
+// added for version tag 1.0.1
+
 // application - dispatch - action - reducer - store
 
 // Action Creator - function which returns actions
