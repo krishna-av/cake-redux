@@ -1,4 +1,4 @@
-// added for version tag 1.0.1
+// added for version tag 1.0.6
 
 // application - dispatch - action - reducer - store
 
